@@ -7,7 +7,7 @@ setup(
     version="1.0.0",
     description='Machine Learning Interpretability Utilities',
     long_description="",
-    author='Bleckwen by ERCCOM',
+    author='Bleckwen by ERCOM',
     license='CC BY-NC-SA 4.0',
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -1,9 +1,9 @@
-# Machine Learning Interpretablity Catalog
+# Machine Learning Interpretability Catalog
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BleckwenAI/mli-catalog/master)
 
 Machine learning models are at the core of many recent advances in science and technology affecting our work and our lives. With the growing impact of ML algorithms on society, it is no longer acceptable to trust the model without an answer to the question: why? why did the model make a precise decision? 
 
-This notebooks provide you with a catalog of new techniques enabling to interpret black box machine learning models. Notebooks detail the use of the following techniques:
+This repository provides you with a catalog of new techniques enabling to interpret black box machine learning models. Notebooks detail the use of the following techniques:
 
 * White Box models
   * Linear Models
