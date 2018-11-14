@@ -1,5 +1,5 @@
 # Machine Learning Interpretablity Catalog
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BleckwenAI/mli-catalog/master)
 
 Machine learning models are at the core of many recent advances in science and technology affecting our work and our lives. With the growing impact of ML algorithms on society, it is no longer acceptable to trust the model without an answer to the question: why? why did the model make a precise decision? 
 
@@ -23,7 +23,11 @@ This catalog is under active development and more techniques might be covered in
 
 Reading notebooks is easy: Just browser notebooks as Github supports .ipynb rendering. You are able to read all cell outputs (both textual and plots).
 
-However, if you want to execute the notebooks the only thing you need is to have Conda tool installed in your computer.
+However, if you want to execute the notebooks you have two options:
+
+A) (easier and immediate) Use the Binder badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BleckwenAI/mli-catalog/master) to launch an ephemeral Jupyter environment with all dependencies.
+
+B) Have Conda tool installed in your computer.
 Clone this repository and then create an environment required by all notebooks:
 ```
 $ conda env create -f environment.yml
